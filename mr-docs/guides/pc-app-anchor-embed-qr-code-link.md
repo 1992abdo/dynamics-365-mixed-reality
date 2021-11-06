@@ -39,6 +39,8 @@ to the same QR code.
 
 2. Open a third-party QR code generator. Examples of third-party QR code generators include the following:
     
+    - [https://4qrcode.com//](https://4qrcode.com/)
+    
     - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
     
     - [https://www.the-qrcode-generator.com/](https://www.the-qrcode-generator.com/)
